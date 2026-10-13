@@ -1,0 +1,14 @@
+registration_number,make,model,fuel,vehicle_class,status
+MP04AB1234,Example Motors,City Sedan,Petrol,Motor Car,Active
+MP09XY5678,Sample Auto,Urban Bike,Petrol,Two Wheeler,Active
+MP20CD4321,Demo Vehicles,Electric Mini,Electric,Motor Car,Active
+DL01CA0001,Demo Motors,Metro Hatch,CNG,Motor Car,Active
+KA05MH7777,Fictional Auto,Campus Scooter,Petrol,Two Wheeler,Active
+MH12DE1433,Synthetic Cars,Highway Cruiser,Diesel,Motor Car,Active
+TN10AQ2345,Test Wheels,City Runner,Petrol,Motor Car,Active
+RJ14SB6789,Sample Trucks,Cargo Mover,Diesel,Goods Vehicle,Active
+UP32GH9012,Demo Fleet,Office Sedan,Petrol,Motor Car,Active
+GJ06AB4567,Fictional Autos,Electric Scooter,Electric,Two Wheeler,Active
+KL01AX8888,Demo Corp,Tourist Van,Diesel,Motor Vehicle,Active
+HR26DA3456,Test Motors,Farm Tractor,Diesel,Agricultural Vehicle,Active
+AP09CD1111,Sample Vehicles,City Bus,Diesel,Public Service Vehicle,Active
