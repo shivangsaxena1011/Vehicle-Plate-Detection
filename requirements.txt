@@ -4,6 +4,6 @@ numpy>=1.26,<3
 Pillow>=10,<13
 pandas>=2.1,<4
 easyocr>=1.7,<2
-ultralytics>=8.3,<9
+ultralytics-opencv-headless>=8.3,<9
 pytest>=8,<10
 python-dotenv>=1.0,<2
